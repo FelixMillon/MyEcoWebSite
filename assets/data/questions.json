@@ -1,0 +1,47 @@
+{
+  "Question_1":{
+    "Utilisation des ressources": [
+      "En tant que développeur, je dois concevoir mes services afin qu’ils soient scalables.",
+      "En tant que DevOps, je dois m’assurer que les ressources sont mises à l’échelle en fonction de l’utilisation. Avec une diminution au minimum dès que cela est possible"
+    ],
+    "Energie":[
+      "En tant qu’éditeur, je dois m’assurer que les serveurs sont alimentés par des énergies renouvelables et / ou nucléaire.",
+      "En tant qu’éditeur, je dois m’assurer que le datacenter hébergeant la solution est conçu de manière à optimiser la consommation énergétique"
+    ],
+    "Accessibilite": [
+      "En tant qu’utilisateur, je veux pouvoir comprendre instantanément à quoi chaque élément du site sert (boutons, liens…)",
+      "En tant qu’utilisateur, je ne veux pas de pop-up intempestifs.",
+      "En tant qu’utilisateur handicapé, je dois pouvoir avoir accès aux même contenus que tous les autres utilisateurs, de manière claire et simple.",
+      "En tant qu’utilisateur ne parlant pas ou peu le français, je dois pouvoir traduire l’interface facilement, au minimum en anglais, et idéalement, dans de nombreux langages."
+    ],
+    "Optimisation": [
+      "En tant qu’éditeur, je dois m’assurer que le code est optimisé, et pratiquer des audites régulièrement.",
+      "En tant que développeur, je dois avoir recours aux cookies le moins souvent qu’il est possible.",
+      "En tant que développeur, je dois privilégier le stockage en mémoire quand c’est possible."
+    ]
+  },
+  "Question_2":{
+    "Presentation": {
+      "Presentation": "En tant que développeur au sein de l’équipe « Infrastructure » de la CNAF, je participe activement à l’optimisation des ressources :",
+      "Arguments":[
+        "En participant à la conception et à la réalisation d’une solution portable de conteneurisation, permettant la scalabilité des ressources.",
+        "En auditant mon code, m’assurant de son optimisation.",
+        "En tant qu’alternant au sein d’une équipe plus âgé et moins sensibilisé aux questions environnementales, en partageant mes connaissances sur ce sujet."
+      ]
+    }
+  },
+  "Question_3":{
+    "Actuellement": {
+      "Presentation":"La CNAF a de gros progrès à faire en termes de sobriété numérique. Une grande partie de ses ressources ne sont pas optimisées. Cependant, au cours des dernières années, plusieurs actions ont été mises en œuvre afin de réduire sa consommation énergétique :",
+      "Arguments": [
+        "La CNAF ayant son propre datacenter, elle en utilise une partie afin de virtualiser les postes de travail. Limitant ainsi l’impact de l’obsolescence matériel des postes personnels : ceux-ci ne servant qu’à se connecter aux machines virtuelles.",
+        "Mise en veille ou extinction des machines virtuelles non utilisées.",
+        "Création d’un centre de compétence conteneurisation afin d’améliorer (ou rendre possible) la scalabilité des ressources.",
+        "Création d’une usine logicielle afin de produire nos propres logiciels, optimisés et réduits aux seuls fonctionnalités nécessaires. L’utilisations de gros progiciels n’étant pas appropriés à nos besoins."
+      ]
+    },
+    "Futur": {
+      "Presentation": "L’optimisation de l’utilisation du cloud est une problématique au centre des nouveaux objectifs à moyen terme du SI de la CNAF. Principalement pour des raisons financières, mais cela bénéficierait grandement à la sobriété énergétique de la CNAF"
+    }
+  }
+}
